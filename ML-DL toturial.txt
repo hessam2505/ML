@@ -1,0 +1,470 @@
+آموزش جامع مبانی هوش مصنوعی – دوره تخصصی یادگیری عمیق-TopLearn
+https://toplearn.com/c/6162
+آموزش مقدماتی مبانی عملیات یادگیری ماشین (MLOps)-TopLearn
+https://toplearn.com/c/6214
+آموزش جامع مبانی هوش مصنوعی دوره تخصصی یادگیری ماشین-TopLearn
+https://toplearn.com/c/6131
+آموزش جامع مبانی بهینه‌سازی در هوش مصنوعی - بهینه‌سازی معماری مدلهای هوش مصنوعی-TopLearn
+https://toplearn.com/c/6272
+آموزش جامع مبانی بهینه‌سازی در هوش مصنوعی - روش های متاهیورستیک و الگوریتم‌های تکاملی-TopLearn
+https://toplearn.com/c/6258
+آموزش جامع مبانی بهینه‌سازی در هوش مصنوعی - روش‌های کلاسیک و عددی-TopLearn
+https://toplearn.com/c/6248
+آموزش جامع یادگیری ماشین و زیرشاخه ها در پایتون (با رویکرد مالی)-TopLearn
+https://toplearn.com/c/6004
+آموزش پروژه محور یادگیری ماشین و یادگیری عمیق-TopLearn
+https://toplearn.com/c/6117
+آموزش جامع مدل سازی پیشرفته یادگیری عمیق (deep learning) با پایتون-TopLearn
+https://toplearn.com/c/6018
+آموزش جامع یادگیری تقویتی (Reinforcement Learning) در پایتون-TopLearn
+https://toplearn.com/c/6049
+آموزش مدلسازی پایه و ماشین لرنینگ با پایتون-TopLearn
+https://toplearn.com/c/6001
+دوره پیشرفته یادگیری ماشین با پایتون-TopLearn
+https://toplearn.com/c/6005
+آموزش مقدمات و مبانی هوش مصنوعی-TopLearn
+https://toplearn.com/c/5961
+آموزش ریاضیات هوش مصنوعی (مقدماتی)-TopLearn
+https://toplearn.com/c/4729
+پیاده سازی الگوریتم تشخیص چهره هوش مصنوعی در وب با Django و Open CV-TopLearn
+https://toplearn.com/c/5776
+آموزش جامع هوش مصنوعی با پایتون ( Python )-TopLearn
+https://toplearn.com/c/MjB3
+آموزش یادگیری ماشین و داده کاوی با پایتون-TopLearn
+https://toplearn.com/c/An8P
+آموزش جامع پردازش تصویر و بینایی ماشین در پایتون-TopLearn
+https://toplearn.com/c/6096
+آنالیز چهره و بینـایی کامپیوتر در پایتون-TopLearn
+https://toplearn.com/c/4675
+______________________________________________________________________________
+آموزش عملی ساخت AI Agent با n8n- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B9%D9%85%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-ai-agent-n8n-mk11887/
+دوره آموزش رایگان هوش مصنوعی و یادگیری ماشین- maktabkhoone 
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk988/
+آموزش هوش مصنوعی مولد با مدل‌های زبانی بزرگ (LLM) - maktabkhoone
+https://maktabkhooneh.org/course/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D9%88%D9%84%D8%AF-%D9%85%D8%AF%D9%84-%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-llm-mk9853/
+آموزش رایگان هوش مصنوعی - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk2867/
+یادگیری ماشین از صفر تا صد: هوش مصنوعی، پایتون، R و ChatGPT- maktabkhoone
+https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B5%D9%81%D8%B1-%D8%B5%D8%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-r-chat-gpt-mk12531/
+دوره رایگان هوش مصنوعی- maktabkhoone
+https://maktabkhooneh.org/course/229-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-mk229/
+آموزش مبانی هوش مصنوعی و یادگیری ماشین - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk3585/
+آموزش رایگان هوش مصنوعی و یادگیری عمیق پیشرفته- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk6619/
+آموزش جامع ساخت ایجنت های هوش مصنوعی 2025 - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A7%DB%8C%D8%AC%D9%86%D8%AA-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-2025-mk12117/
+آموزش رایگان مقدمات هوش مصنوعی و یادگیری عمیق- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-mk4570/
+آموزش هوش مصنوعی بینایی ماشین (Yolo / Open Cv) - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-mk11453/
+تشخیص سرطان پوست ملانوما با شبکه عصبی YOLO مبتنی بر هوش مصنوعی - maktabkhoone
+https://maktabkhooneh.org/course/%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D9%BE%D9%88%D8%B3%D8%AA-%D9%85%D9%84%D8%A7%D9%86%D9%88%D9%85%D8%A7-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B9%D8%B5%D8%A8%DB%8C-yolo-mk12195/
+آموزش هوش مصنوعی مولد (Generative AI) برای همه - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D9%88%D9%84%D8%AF-generative-ai-mk5681/
+آموزش یادگیری ماشین با پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1318/
+یادگیری ماشین دکتر شریفی زارچی - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D9%85%D9%87-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1815/
+آموزش یادگیری ماشین - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1235/
+آموزش رایگان یادگیری ماشین با پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1156/
+آموزش یادگیری ماشین (Andrew NG) - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-andrew-ng-mk1085/
+آموزش مبانی هوش مصنوعی و یادگیری ماشین - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk3585/
+یادگیری ماشین- maktabkhoone
+https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273/
+آموزش یادگیری ماشین کاربردی- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-mk2450/
+Machine learning- maktabkhoone
+https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35/
+بهینه‌سازی مدل‌های یادگیری ماشین: تئوری و تکنیک‌ها - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A8%D9%87%DB%8C%D9%86%D9%87%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%AF%D9%84-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%AA%D8%A6%D9%88%D8%B1%DB%8C-%D8%AA%DA%A9%D9%86%DB%8C%DA%A9-mk12452/
+آموزش دیپلوی مدل‌های یادگیری ماشین در پروداکشن - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%DB%8C%D9%BE%D9%84%D9%88%DB%8C-%D9%85%D8%AF%D9%84-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%D8%B1%D9%88%D8%AF%D8%A7%DA%A9%D8%B4%D9%86-mk5033/
+آموزش کاربرد یادگیری ماشین در علم پزشکی - maktabkhoone
+https://maktabkhooneh.org/course/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%B9%D9%84%D9%85-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-mk1627/
+آموزش مقدماتی یادگیری ماشین در پروداکشن - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%BE%D8%B1%D9%88%D8%AF%D8%A7%DA%A9%D8%B4%D9%86-mk3829/
+آموزش رایگان یادگیری ماشین برای بیوانفورماتیک - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-mk663/
+آموزش یادگیری عمیق با تاکید بر بینایی ماشین - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk7732/
+بهبود عملکرد مدل‌های یادگیری ماشین با روش‌های Ensemble در پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%85%D8%AF%D9%84-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-ensemble-mk12652/
+آموزش ساخت پروژه یادگیری ماشین موفق - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1110/
+آموزش نظارت‌نشده‌ها، توصیه‌گرها و یادگیری تقویتی در ماشین‌لرنینگ - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%D9%86%D8%B4%D8%AF%D9%87-%D8%AA%D9%88%D8%B5%DB%8C%D9%87%DA%AF%D8%B1-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA%DB%8C-mk1650/
+آموزش یادگیری ماشین - شاخه‌ رگرسیون - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%B1%D9%86%DB%8C%D9%86%DA%AF-mk2679/
+آموزش یادگیری ماشین برای همه - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%87%D9%85%D9%87-mk10843/
+آموزش الگوریتم‌های نظارت‌شده در ماشین‌لرنینگ - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%D8%B4%D8%AF%D9%87-mk1648/
+آموزش مدل‌سازی پایپ‌لاین ماشین لرنینگ در پروداکشن - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D8%AF%D9%84-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%BE%D8%A7%DB%8C%D9%BE-%D9%84%D8%A7%DB%8C%D9%86-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%B1%D9%86%DB%8C%D9%86%DA%AF-%D9%BE%D8%B1%D9%88%D8%AF%D8%A7%DA%A9%D8%B4%D9%86-mk3837/
+آموزش استفاده از ماشین لرنینگ برای داده‌های شما با Google Cloud - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%B1%D9%86%DB%8C%D9%86%DA%AF-%D8%AF%D8%A7%D8%AF%D9%87-google-cloud-mk7958/
+آموزش چرخه عمر داده ماشین لرنینگ در پروداکشن- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%86%D8%B1%D8%AE%D9%87-%D8%B9%D9%85%D8%B1-%D8%AF%D8%A7%D8%AF%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%B1%D9%86%DB%8C%D9%86%DA%AF-%D9%BE%D8%B1%D9%88%D8%AF%D8%A7%DA%A9%D8%B4%D9%86-mk5638/
+آموزش الگوریتم‌های پیشرفته در ماشین‌لرنینگ - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%B1%D9%86%DB%8C%D9%86%DA%AF-mk1649/
+یادگیری عمیق با تنسورفلو و کراس - maktabkhoone
+https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%AA%D9%86%D8%B3%D9%88%D8%B1%D9%81%D9%84%D9%88-%DA%A9%D8%B1%D8%A7%D8%B3-mk1446/
+آموزش استراتژی‌های یادگیری پیشرفته با کمک ChatGPT - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%DA%A9%D9%85%DA%A9-chatgpt-mk11810/
+یادگیری تقویتی هوش مصنوعی با پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk12166/
+آموزش ترفندها و تکنیک‌های پیشرفته پایتون در علم داده- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AA%D8%B1%D9%81%D9%86%D8%AF-%D8%AA%DA%A9%D9%86%DB%8C%DA%A9-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B9%D9%84%D9%85-%D8%AF%D8%A7%D8%AF%D9%87-mk11278/
+آموزش کاربرد الگوریتم‌های فرااکتشافی - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D8%A7%DA%A9%D8%AA%D8%B4%D8%A7%D9%81%DB%8C-mk2283/
+آموزش رگرسیون خطی در پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%DA%AF%D8%B1%D8%B3%DB%8C%D9%88%D9%86-%D8%AE%D8%B7%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk2375/
+آموزش پردازش تصویر و بینایی ماشین با OpenCV - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-opencv-mk1664/
+آموزش جامع یادگیری عمیق(Deep Learning) با Tensorflow و keras - maktabkhoone
+https://maktabkhooneh.org/course/%D8%AF%D9%88%D8%B1%D9%87-%D8%AC%D8%A7%D9%85%D8%B9-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-tensorflow-keras-mk5653/
+پردازش زبان طبیعی با یادگیری عمیق - maktabkhoone
+https://maktabkhooneh.org/course/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-mk12584/
+آموزش رایگان یادگیری عمیق با پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk1353/
+آموزش یادگیری عمیق پیشرفته: مدل‌سازی توالی - maktabkhoone
+https://maktabkhooneh.org/course/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%85%D8%AF%D9%84%D8%B3%D8%A7%D8%B2%D9%8A-%D8%AA%D9%88%D8%A7%D9%84%D9%8A-mk1566/
+آموزش رایگان تشخیص تصویر با یادگیری عمیق - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%D8%A7-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-mk1087/
+آموزش رایگان هوش مصنوعی و یادگیری عمیق پیشرفته- maktabkhoone
+https://maktabkhooneh.org/course/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk10087/
+آموزش رایگان یادگیری عمیق کاربردی- maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-mk1379/
+آموزش پیش‌بینی سری‌های زمانی با مدل یادگیری عمیق LSTM در MATLAB- maktabkhoone
+https://maktabkhooneh.org/course/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%B2%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D8%AF%D9%84-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-lstm-mk3412/
+آموزش یادگیری عمیق برای تشخیص و شناسایی اشیا - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B4%DB%8C%D8%A7-mk7733/
+بهترین شیوه‌ها برای استقرار مدل‌های بینایی کامپیوتر و یادگیری عمیق - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B4%DB%8C%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AF%D9%84-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-mk11532/
+آموزش جامع دیپ لرنینگ برای پیش‌بینی قیمت سهام و استراتژی معاملاتی خودکار - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%DB%8C%D9%BE-%D9%84%D8%B1%D9%86%DB%8C%D9%86%DA%AF-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%87%D8%A7%D9%85-mk3851/
+آموزش بهبود شبکه‌های عصبی عمیق - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B5%D8%A8%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-mk1109/
+آموزش جامع یادگیری عمیق(Deep Learning) با Tensorflow و keras - maktabkhoone
+https://maktabkhooneh.org/course/%D8%AF%D9%88%D8%B1%D9%87-%D8%AC%D8%A7%D9%85%D8%B9-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-tensorflow-keras-mk5653/
+آموزش ساخت هوش مصنوعی با پایتون - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-mk3578/
+آموزش پردازش تصویر و بینایی ماشین با OpenCV - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-opencv-mk1664/
+آموزش رایگان یادگیری تقویتی - maktabkhoone
+https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA%DB%8C-mk3046/
+______________________________________________________________________________
+آموزش یادگیری ماشین – جامع و با مفاهیم کلیدی + گواهینامه
+https://faradars.org/courses/fvml9505-machine-learning
+آموزش یادگیری ماشین و پیاده سازی در پایتون Python – بخش دوم + گواهینامه
+https://faradars.org/courses/fvdm94062-machine-learning-in-python-second-part
+آموزش یادگیری ماشین و پیاده سازی در پایتون Python – بخش یکم + گواهینامه
+https://faradars.org/courses/fvdm9406-machine-learning-in-python-first-part
+آموزش ریاضی برای یادگیری ماشین + پیاده سازی در پایتون + گواهینامه
+https://faradars.org/courses/math-for-machine-learning-fvds0104
+آموزش کتابخانه های پایتون برای یادگیری ماشین و یادگیری عمیق (رایگان) + گواهینامه
+https://faradars.org/courses/python-libraries-for-machine-learning-fvpy333
+آموزش یادگیری ماشین با پایتون – ماشین لرنینگ با Python + گواهینامه
+https://faradars.org/courses/machine-learning-using-python-fvpht0091
+آموزش الگوریتم های بهینه سازی در یادگیری ماشین + پیاده سازی در متلب
+https://faradars.org/courses/optimization-algorithms-in-machine-learning-fvopt012
+آموزش رایگان یادگیری ماشین با پایتون – سریع و آسان در ۱۸۰ دقیقه + گواهینامه
+https://faradars.org/courses/crash-course-of-machine-learning-with-python-fvml0101
+آموزش یادگیری ماشین در تحلیل بازارهای مالی با پایتون - مقدماتی + گواهینامه
+https://faradars.org/courses/machine-learning-in-financial-markets-with-python-fvpy303
+آموزش درخت تصمیم در یادگیری ماشین (رایگان)
+https://faradars.org/courses/fvdm9406s08-decision-trees-in-machine-learning
+آموزش ​پروژه‌ محور یادگیری ماشین در پایتون – ویژه مهندسی مکانیک + گواهینامه
+https://faradars.org/courses/machine-learning-in-python-for-mechanical-engineers-fvml306
+آموزش مبانی یادگیری عمیق یا Deep Learning + گواهینامه
+https://faradars.org/courses/basics-of-deep-learning-fvml9912
+آموزش کاربردی شبکه های عصبی مصنوعی – طبقه بندی، پیش بینی و ترکیب با الگوریتم های تکاملی
+https://faradars.org/courses/mvpnn9011-videos-tutorial-pack-neural-network
+آموزش شبکه های عصبی مصنوعی در متلب
+https://faradars.org/courses/mvrnn9102-neural-networks-in-matlab-video-tutorials-pack
+آموزش پردازش و طبقه بندی تصاویر پزشکی با پایتون Python + گواهینامه
+https://faradars.org/courses/processing-and-classification-of-medical-images-using-python-fvbme0103
+آموزش کتابخانه scikit-learn در پایتون – الگوریتم های یادگیری ماشین + گواهینامه
+https://faradars.org/courses/scikit-learn-library-in-python-fvsklp101
+آموزش پیاده سازی گام به گام شبکه های عصبی در پایتون + گواهینامه
+https://faradars.org/courses/neural-networks-in-python-fvnnpy101
+آموزش یادگیری تقویتی در پایتون Python + گواهینامه
+https://faradars.org/courses/reinforcement-learning-with-python-fvml304
+آموزش مقدماتی پیاده سازی شبکه های عصبی مصنوعی در پایتون Python + گواهینامه
+https://faradars.org/courses/intro-to-ann-implementation-in-python-fvpht9810
+آموزش یادگیری عمیق – شبکه های GAN با پایتون
+https://faradars.org/courses/fvdl9806-deep-learning-gan-networks-using-python
+آموزش شبکه های عصبی پیچشی CNN – مقدماتی
+https://faradars.org/courses/introduction-to-convolutional-neural-network-fvcnn006
+آموزش تصمیم گیری چند شاخصه Multiple Attribute Decision Making
+https://faradars.org/courses/fvml9408-multi-attribute-decision-making
+پادکست هوش مصنوعی – بخش یکم: مقدمه
+https://faradars.org/podcasts/ai-podcast-ep-01-introduction-fpdai101
+آموزش پیش‌بینی نوسانات بازار سهام با هوش مصنوعی در پایتون Python - مبانی و مقدمات + گواهینامه
+https://faradars.org/courses/predicting-stock-market-fluctuations-using-ai-fvfn117
+آموزش طراحی و ساخت مدل های حجیم زبانی LLM با پایتون + مثال‌های کاربردی + گواهینامه
+https://faradars.org/courses/designing-and-building-large-language-models-with-python-fvpy335
+آموزش یادگیری تقویتی – Reinforcement Learning (رایگان)
+https://faradars.org/courses/fvml9505n-reinforcement-learning
+آموزش برنامه نویسی یادگیری عمیق با کتابخانه TensorFlow 2
+https://faradars.org/courses/fvdl9906-deep-learning-programming-using-tensorflow-2-library
+موزش پیاده سازی ربات معامله گر با مدل SVM در پایتون
+https://faradars.org/courses/implementation-of-trading-robot-in-python-fvfpy106
+آموزش مفاهیم آماری در داده کاوی و پیاده سازی آن در پایتون Python + گواهینامه
+https://faradars.org/courses/statistical-data-mining-implementation-in-python-fvdm9910
+آموزش یادگیری ماشین در تحلیل بازارهای مالی با پایتون - مقدماتی + گواهینامه
+https://faradars.org/courses/machine-learning-in-financial-markets-with-python-fvpy303
+آموزش پیش بینی قیمت سهام در بورس با شبکه عصبی عمیق LSTM در متلب
+https://faradars.org/courses/stock-price-forecasting-using-lstm-deep-neural-network-fvfn111
+آموزش فرایند تحلیل سلسله مراتبی AHP در تصمیم گیری چند شاخصه (رایگان)
+https://faradars.org/courses/fvml9408c-analytic-hierarchy-process-ahp-in-multi-attribute-decision-making
+آموزش پروژه محور بینایی ماشین با پایتورچ – تشخیص اشیا در PyTorch با پایگاه داده COCO + گواهینامه
+https://faradars.org/courses/object-detection-with-coco-dataset-using-pytorch-fvpy123
+آموزش شناسایی الگو – بخش یکم + گواهینامه
+https://faradars.org/courses/pattern-recognition-fvsft315
+آموزش الگوریتم YOLO + تشخیص اشیا در پایتون با یولو + گواهینامه
+https://faradars.org/courses/object-recognition-with-yolov8-fvai303
+آموزش سیستم های خبره – جامع و با نکات مهم
+https://faradars.org/courses/fvsft107-expert-systems
+آموزش عملی سیستم های پیشنهادگر در پایتون – بخش یکم
+https://faradars.org/courses/practical-recommender-systems-in-python-part-i-fvrml301
+آموزش آشنایی با ابزارهای داده کاوی و یادگیری ماشین با پایتون (رایگان)
+https://faradars.org/courses/fvvss108-data-mining-tools-and-machine-learning-with-python
+آموزش خوشه بندی با الگوریتم های تکاملی و فراابتکاری
+https://faradars.org/courses/clustering-with-evolutionary-metaheuristic-algorithms-fvrp106
+آموزش ساخت چت بات شخصی با لنگ چین LangChain – کامل و عملی + گواهینامه
+https://faradars.org/courses/langchain-framework-creating-a-personal-chatbot-fvait313
+آموزش الگوریتم های بهینه سازی در یادگیری ماشین + پیاده سازی در متلب
+https://faradars.org/courses/optimization-algorithms-in-machine-learning-fvopt012
+آموزش یادگیری جمعی (Ensemble Learning) (رایگان)
+https://faradars.org/courses/fvdm94062s03-ensemble-learning
+آموزش رگرسیون خطی و شبکه عصبی MLP در پایتون برای پیش بینی چربی بدن (رایگان)
+https://faradars.org/courses/body-fat-prediction-fvmlbm101
+آموزش پیش بینی با الگوریتم های یادگیری ماشین در پایتون – پیش بینی نارسایی قلبی
+https://faradars.org/courses/heart-failure-prediction-with-machine-learning-fvmlbm102
+آموزش انتخاب ویژگی با استفاده از الگوریتم های فراابتکاری و تکاملی
+https://faradars.org/courses/feature-selection-with-evolutionary-metaheuristics-fvrp103
+آموزش روش های پیش پردازش داده ها – رایگان
+https://faradars.org/courses/mvrdm9206b-data-mining-proproccessing-and-prepairing-data
+آموزش شبکه عصبی کانولوشنی گرافی در پایتون – GCN یادگیری عمیق
+https://faradars.org/courses/graph-convolutional-network-gcn-in-python-fvpy319
+آموزش رگرسیون لجستیک در یادگیری ماشین (رایگان)
+https://faradars.org/courses/fvdm9406s05-logistic-regression-in-machine-learning
+آموزش وب معنایی – تحلیل و پردازش اطلاعات با انواع ماشین
+https://faradars.org/courses/fvdm9812-semantic-web-analysis-and-processing-information-with-different-kinds-of-machines
+آموزش الگوریتم ژنتیک در یادگیری ماشین (رایگان)
+https://faradars.org/courses/genetic-algorithm-training-in-machine-learning-fvml9505s07
+آموزش انتخاب مدل های یادگیری ماشین در پایتون Python
+https://faradars.org/courses/model-selection-in-python-fvsklp102
+آموزش پیاده سازی بازی مار در پایتون با یادگیری تقویتی عمیق
+https://faradars.org/courses/deep-reinforcement-learning-in-python-with-implementation-of-snake-game-fvdrlp101
+آموزش کار با پیش پردازش ها در یادگیری ماشین با پایتون (Python) (رایگان)
+https://faradars.org/courses/fvml9606f-working-with-preprocessing-in-machine-learning-using-python
+آموزش مقدمه ای در رابطه با یادگیری ماشین با پایتون (Python) (رایگان)
+https://faradars.org/courses/fvml9606a-basic-machine-learning-using-python
+پادکست هوش مصنوعی – بخش دوم: شرکت آمازون Amazon
+https://faradars.org/podcasts/ai-podcast-ep-02-amazon-fpdai102
+آموزش ناحیه بندی یا قطعه بندی تصاویر با ایمج جی Fiji – ImageJ
+https://faradars.org/courses/fvbme112-segmentation-of-medical-and-industrial-images-using-fiji-image-j
+آموزش تلفیق داده Data Fusion – مبانی و کاربردها
+https://faradars.org/courses/fvdm9405-data-fusion-strategy
+آموزش نرم افزار مدل سازی داده ها Eureqa Formulize برای یادگیری ماشین
+https://faradars.org/courses/fvef9812-eureqa-formulize-data-modeling
+آموزش دسته بندی تصاویر با شبکه های عصبی در پایتون و در Google Colab + گواهینامه
+https://faradars.org/courses/deep-learning-with-google-colab-fvce101
+آموزش تخمین خطای طبقه بندی یا کلاسیفایر در داده کاوی
+https://faradars.org/courses/fvml9403-classifier-error-estimation
+آموزش یادگیری تقویتی عمیق DQN – مقدماتی + پیاده‌ سازی بازی + گواهینامه
+https://faradars.org/courses/dqn-deep-reinforcement-learning-and-game-implementation-fvai304
+آموزش یادگیری انتقال Transfer Learning
+https://faradars.org/courses/fvml96061-transfer-learning
+آموزش خوشه بندی سلسله مراتبی با SPSS اس پی اس اس
+https://faradars.org/courses/fvst9604-hierachical-clustering-using-spss
+آموزش شبکه‌ های عصبی گرافی با کتابخانه DGL در پایتون + گواهینامه
+https://faradars.org/courses/graph-neural-networks-with-dgl-library-in-python-fvann301
+آموزش تقلیل ابعاد در یادگیری ماشین (رایگان)
+https://faradars.org/courses/fvdm94062s05-dimension-reduction-in-machine-learning
+آموزش تشخیص داده های پرت یا Outlier Detection – رایگان
+https://faradars.org/courses/mvrdm9206h-outlier-detection-in-data-mining
+آموزش یادگیری ماشین در Google Colab گوگل کولب + پیاده‌ سازی الگوریتم‌ها + گواهینامه
+https://faradars.org/courses/advanced-machine-learning-in-google-colab-fvml308
+آموزش مبانی متن کاوی با پایتون Python
+https://faradars.org/courses/text-mining-with-python-fvpy316
+آموزش یادگیری ماشین با داده های نامتوازن در پایتون – پیاده سازی عملی
+https://faradars.org/courses/machine-learning-with-imbalanced-data-in-python-fvml307
+آموزش بازتکامل شبکه های عصبی (رایگان)
+https://faradars.org/courses/fvvss104-re-evolution-of-neural-networks
+آموزش یادگیری عمیق با LSTM + پروژه عملی دسته بندی اخبار جعلی در پایتون + گواهینامه
+https://faradars.org/courses/fake-news-classification-using-lstm-in-python-fvdl307
+آموزش یادگیری ماشین با پایتون – استراتژی‌های عیب یابی و بهینه سازی برنامه‌ها
+https://faradars.org/courses/debugging-and-improvement-strategies-for-machine-learning-using-python-fvml305
+آموزش رگرسیون – معرفی و انواع (رایگان)
+https://faradars.org/videos/regression-introduction-and-types-fvml311
+آموزش تشخیص اشیا با پایتون + پیاده سازی الگوریتم ها + گواهینامه
+https://faradars.org/courses/object-detection-in-python-fvpy360
+آموزش کاهش تعداد رنگ تصاویر با استفاده از روش های خوشه بندی هوشمند
+https://faradars.org/courses/fvrp104-color-reduction-and-quantization-of-images-using-intelligent-clustering-methods-video-tutorial
+آموزش کشف داده های پرت در یادگیری ماشین (رایگان)
+https://faradars.org/courses/fvdm94062s07-discover-outdated-data-on-machine-learning
+آموزش مفاهیم پایه در یادگیری تقویتی ماشین (رایگان)
+https://faradars.org/courses/teaching-basic-concepts-in-machine-reinforcement-learning-fvml9505s14
+آموزش یادگیری عمیق در پایتون با fast.ai + پیاده سازی مدل ها + گواهینامه
+https://faradars.org/courses/deep-learning-with-the-fastai-library-fvpy336
+آموزش آشنایی با پایتون برای پردازش زبان های طبیعی (NLP) (رایگان)
+https://faradars.org/courses/fvpht9701s02-introduction-to-python-for-nlp
+آموزش پردازش زبان طبیعی با کتابخانه SpaCy در پایتون + پیاده‌سازی عملی
+https://faradars.org/courses/natural-language-processing-with-spacy-fvml322
+آموزش پردازش زبان های طبیعی (NLP) در پایتون با پلتفرم NLTK – مبانی و مقدمات (رایگان)
+https://faradars.org/courses/fvpht9701s01-introduction-to-nlp-in-python-using-nltk
+آموزش الگوریتم بهینه ساز جستجوی ارگانیسم های همزیستی SOS در پایتون
+https://faradars.org/courses/symbiotic-organisms-search-algorithm-and-implementation-in-python-fvop007
+آموزش روش های تحلیل داده های پرت (Outlier Analysis) در داده کاوی (رایگان)
+https://faradars.org/courses/fvdm9505s11-outlier-analysis-methods-in-data-mining
+آموزش معرفی مدل های بازیابی اطلاعات در وب کاوی (رایگان)
+https://faradars.org/courses/fvdm9503f-introduction-to-information-retrieval-models-in-web-mining
+آموزش ایجاد و توسعه مدل پیش بینی کننده با سالفورد Salford Predictive Modeler SPM
+https://faradars.org/courses/fvst9709-building-and-developing-predictive-models-using-salford-predictive-modeler
+آموزش پردازش تصویر با تنسورفلو TensorFlow – گام به گام و عملی + گواهینامه
+https://faradars.org/courses/working-with-image-module-from-tensorflow-library-for-image-processing-fvpy341
+آموزش یادگیری انتقالی در هوش مصنوعی + مزایا و کاربردهای Transfer Learning (رایگان)
+https://faradars.org/courses/transfer-learning-fvml314
+آموزش مقایسه مدل ترنسفورمر و شبکه عصبی پیچشی CNN در پردازش تصویر (رایگان)
+https://faradars.org/courses/transformer-and-convolutional-neural-network-fvdl310
+آموزش بخش‌ بندی تصاویر MRI با استفاده از شبکه عمیق Unet با پایتون + پیاده‌سازی عملی + گواهینامه
+https://faradars.org/courses/mri-image-segmentation-with-unet-fvdsp305
+آموزش ماشین بردار پشتیبان و رگرسیون لجستیک + پیاده سازی در پایتون
+https://faradars.org/courses/svm-logistic-regression-python-implementation-fvce317
+پادکست هوش مصنوعی – بخش سوم: شرکت بایدو Baidu
+https://faradars.org/podcasts/ai-podcast-ep-03-baidu-fpdai103
+پادکست هوش مصنوعی – بخش پانزدهم: والمارت Walmart
+https://faradars.org/podcasts/ai-podcast-ep-15-walmart-fpdai115
+پادکست هوش مصنوعی – بخش هفتم: گوگل و آلفابت
+https://faradars.org/podcasts/ai-podcast-ep-07-google-and-alphabet-fpdai107
+آموزش یادگیری چندوظیفه‌ ای Multi-Task Learning + از تئوری تا پیاده‌‌سازی عملی
+https://faradars.org/courses/multi-task-learning-concepts-and-applications-fvml317
+پادکست هوش مصنوعی – بخش چهارم: شرکت اپل Apple
+https://faradars.org/podcasts/ai-podcast-ep-04-apple-fpdai104
+پادکست هوش مصنوعی – بخش پنجم: گروه علی بابا Alibaba
+https://faradars.org/podcasts/ai-podcast-ep-05-alibaba-fpdai105
+آموزش سیستم پیشنهاد هوشمند محصول بر اساس گراف داده های حجیم (رایگان)
+https://faradars.org/courses/fvvss101-smart-product-offer-system-based-on-high-volume-data-graph
+پادکست هوش مصنوعی – بخش یازدهم: بی ام وی BMW
+https://faradars.org/podcasts/ai-podcast-ep-11-bmw-fpdai111
+آموزش مرور روش های کلاسیک در یادگیری ماشین (ج) (رایگان)
+https://faradars.org/courses/fvml9505g-review-classical-methods-in-machine-learning-vi
+پادکست هوش مصنوعی – بخش نهم: سیلزفورس Salesforce
+https://faradars.org/podcasts/ai-podcast-ep-09-salesforce-fpdai109
+آموزش مرور روش های کلاسیک در یادگیری ماشین (ت) (رایگان)
+https://faradars.org/courses/fvml9505e-review-classical-methods-in-machine-learning-iv
+پادکست هوش مصنوعی – بخش هشتم: والت دیزنی Walt Disney
+https://faradars.org/podcasts/ai-podcast-ep-08-walt-disney-fpdai108
+پادکست هوش مصنوعی – بخش ششم: رستوران های زنجیره ای مک دونالدز McDonald's
+https://faradars.org/podcasts/ai-podcast-ep-06-mcdonalds-fpdai106
+آموزش مرور روش های کلاسیک در یادگیری ماشین (د) (رایگان)
+https://faradars.org/courses/fvml9505k-review-classical-methods-in-machine-learning-x
+آموزش یادگیری ماشین بزرگ مقیاس در تبلیغات آنلاین (رایگان)
+https://faradars.org/courses/fvvss106-large-scale-machine-learning-in-online-advertising
+آموزش الگوریتم K نزدیک‌ترین همسایه در پایتون + مثال عددی KNN
+https://faradars.org/courses/knn-algorithm-fvml313
+آموزش پردازش داده های عددی پزشکی با یادگیری ماشین + مثال عملی + گواهینامه
+https://faradars.org/courses/medical-data-processing-with-machine-learning-fvml319
+آموزش ناحیه‌ بندی تصاویر در پایتون + ارزیابی روش های مختلف
+https://faradars.org/courses/zoning-images-in-python-fvbme122
+پادکست هوش مصنوعی – بخش دوازدهم: شرکت نتفلیکس Netflix
+https://faradars.org/podcasts/ai-podcast-ep-12-netflix-fpdai112
+آموزش تفسیر مدل های یادگیری ماشین – مفاهیم و روش‌ها (رایگان)
+https://faradars.org/courses/interpretation-of-machine-learning-models-fvml312
+آموزش شناسایی ناهنجاری داده با پایتون – از روش‌های پایه تا پیشرفته + گواهینامه
+https://faradars.org/courses/anomaly-detection-in-data-with-python-fvml320
+یادگیری ماشین چیست؟ + انواع الگوریتم‌ها و کاربردهای ماشین لرنینگ (فیلم آموزش رایگان)
+https://faradars.org/videos/machine-learning-essentials-and-applications-fvtgs6754
+آموزش شبکه‌های بازگشتی RNN + کاربرد LSTM و GRU در یادگیری عمیق (رایگان)
+https://faradars.org/videos/recurrent-neural-networks-lstm-gru-fvtgs9447
+آموزش Retrieval Augmented Generation RAG در هوش مصنوعی مولد + گواهینامه
+https://faradars.org/courses/rag-in-generative-ai-fvai320
+یادگیری تقویتی عمیق چیست؟ + کاربردها در هوش مصنوعی (آموزش رایگان)
+https://faradars.org/courses/deep-reinforcement-learning-and-ai-applications-fvtgs9087
+شبکه‌ پیچشی CNN چیست؟ + معماری و کاربرد در یادگیری ماشین (آموزش رایگان)
+https://faradars.org/videos/convolutional-neural-networks-cnn-fvtgs9446
+آموزش پیاده سازی الگوریتم PSO با پایتون – بهینه‌سازی ازدحام ذرات + گواهینامه
+https://faradars.org/courses/particle-swarm-optimization-with-python-fvpy416
+آموزش یادگیری فدرال Federated Learning با پایتون + پروژه عملی + گواهینامه
+https://faradars.org/courses/federated-learning-with-python-fvml323
+کتابخانه TensorFlow پایتون + آشنایی با ساخت مدل‌های یادگیری عمیق با پروژه (رایگان)
+https://faradars.org/videos/tensorflow-deep-learning-models-fvtgs9456
+شبکه عصبی پرسپترون چیست؟ + کاربردها و محدودیت‌ها (آموزش رایگان)
+https://faradars.org/videos/perceptron-neural-network-fvtgs10208
+الگوریتم‌ تقویت Boosting و ساخت مدل قویتر + کاربردها در یادگیری ماشین (آموزش رایگان)
+https://faradars.org/videos/boosting-for-stronger-machine-learning-models-fvtgs9074
+آموزش الگوریتم بیز ساده Naive Bayes + مفاهیم و پیاده‌سازی عملی (آموزش رایگان)
+https://faradars.org/videos/naive-bayes-concepts-and-implementation-fvtgs9075
+آموزش الگوریتم K-Means و نحوه عملکرد آن + کاربردها و چالش‌ها (رایگان)
+https://faradars.org/videos/kmeans-clustering-algorithm-fvtgs9079
+اتوانکدر Autoencoder چیست؟ + کاربرد خودرمزگذار در تحلیل داده (آموزش رایگان)
+https://faradars.org/videos/autoencoder-data-analysis-essentials-fvtgs9448
+اعتبارسنجی متقابل Cross-validation چیست؟ + اهمیت و کاربرد در یادگیری ماشین (رایگان)
+https://faradars.org/videos/cross-validation-in-machine-learning-fvtgs9077
+هایپرپارامترها و نحوه تنظیم بهینه آن‌ها در مدل‌های عمیق + مفاهیم و پیاده‌سازی (آموزش رایگان)
+https://faradars.org/videos/hyperparameter-optimization-in-deep-models-fvtgs9090
+یادگیری نظارت‌ شده Supervised Learning در یادگیری ماشین + اصول و کاربردها (آموزش رایگان)
+https://faradars.org/videos/supervised-learning-fvtgs9442
+یادگیری بدون نظارت Unsupervised Learning + تحلیل، بررسی الگوریتم‌ها و کاربردهای آن (آموزش رایگان)
+https://faradars.org/videos/unsupervised-learning-algorithms-and-applications-fvtgs9443
+آموزش جلوگیری از بیش ‌برازش Overfitting در الگوریتم‌ های یادگیری ماشین (رایگان)
+https://faradars.org/videos/preventing-overfitting-in-machine-learning-fvtgs9444
+آموزش فاین‌ تیونینگ مدل‌ های هوش مصنوعی + اعمال روی داده‌های کوچک (رایگان)
+https://faradars.org/videos/ai-fine-tuning-for-small-datasets-fvtgs8166
+الگوریتم DBSCAN چیست؟ + کاربرد و مزایا در خوشه‌بندی داده‌ها (فیلم آموزش رایگان)
+https://faradars.org/videos/what-is-dbscan-algorithm-fvtgs5195
+آموزش توابع فعال سازی در شبکه‌های عصبی عمیق – از ReLU تا Sigmoid (آموزش رایگان)
+https://faradars.org/videos/activation-functions-in-deep-networks-fvtgs9441
+ماتریس درهم ریختگی چیست؟ + معیارها و تحلیل عملکرد (فیلم آموزش رایگان)
+https://faradars.org/videos/confusion-matrix-and-metrics-fvtgs10205
+پردازنده گرافیکی GPU در یادگیری ماشین + نکات کلیدی و راهنمای انتخاب مناسب (آموزش رایگان)
+https://faradars.org/videos/gpu-processor-in-machine-learning-insights-fvtgs9451
+آموزش مفاهیم پاداش و سیاست در یادگیری تقویتی + کاربرد در الگوریتم‌ها (رایگان)
+https://faradars.org/videos/reward-and-policy-in-rl-fvtgs9085
+کاهش ابعاد در یادگیری ماشین چیست؟ + روش‌های مختلف با کدنویسی (فیلم آموزش رایگان)
+https://faradars.org/videos/dimensionality-reduction-in-ml-fvtgs10062
+ترجمه متن با استفاده از Hugging Face + راهنمای عملی استفاده از مدل‌های زبانی (آموزش رایگان)
+https://faradars.org/videos/text-translation-with-hugging-face-fvtgs8169
+آموزش الگوریتم گرادیان کاهشی Gradient Descent در بهینه‌سازی + مثال عملی (رایگان)
+https://faradars.org/videos/gradient-descent-optimization-with-practical-example-fvtgs9091
+آموزش کار با AutoModels در Hugging Face در یادگیری ماشین + مثال‌های کاربردی (رایگان)
+https://faradars.org/videos/working-with-automodels-in-hugging-face-fvtgs8189
+آموزش نحوه بررسی متریک‌ ها و ارزیابی مدل‌ ها + کاهش خطا در یادگیری ماشین (رایگان)
+https://faradars.org/videos/metrics-model-evaluation-machine-learning-fvtgs8181
+تفاوت الگوریتم‌های مبتنی بر خوشه و کاهش ابعاد + تحلیل و پیاده‌سازی (فیلم آموزش رایگان)
+https://faradars.org/videos/cluster-based-algorithms-vs-dimension-reduction-fvtgs9083
+آموزش Tokenizer در Hugging Face برای پیاده‌سازی مدل یادگیری ماشین + پیاده‌سازی در پایتون (رایگان)
+https://faradars.org/videos/tokenizer-implementation-in-hugging-face-fvtgs8164
+آموزش الگوریتم سلسله مراتبی + پیاده‌سازی و کاربردهای Hierarchical Clustering (رایگان)
+https://faradars.org/videos/hierarchical-clustering-algorithm-fvtgs9080
+آموزش نمایش داده و خروجی مدل‌ در Hugging Face + ابزارهای ویژوال‌سازی کاربردی (رایگان)
+https://faradars.org/videos/huggingface-model-output-visualization-fvtgs8179
+داده‌ گمشده Missing Values در یادگیری ماشین چیست؟ + انواع و روش شناسایی (آموزش رایگان)
+https://faradars.org/videos/missing-values-in-machine-learning-fvtgs9491
+آموزش یادگیری تقویتی، نظارت شده و بدون نظارت – مقایسه روش‌ها و کاربردها (رایگان)
+https://faradars.org/videos/reinforcement-supervised-and-unsupervised-learning-fvtgs10834
+آموزش پیش بینی سری های زمانی با یادگیری عمیق در پایتون Keras و TensorFlow – پیش ثبت نام
+https://faradars.org/courses/time-series-forecasting-with-deep-learning-fvdl312
+آموزش یادگیری ماشین در داده های نامتوازن + تکنیک‌های مدیریت داده‌ (رایگان)
+https://faradars.org/videos/machine-learning-for-imbalanced-data-management-fvtgs7014
+آموزش مدیریت و بهینه‌ سازی حافظه در مدل‌ های بزرگ + پیاده‌سازی تکنیک Pruning (رایگان)
+https://faradars.org/videos/memory-optimization-in-large-models-fvtgs8177
+آموزش با Model Card‌ها در یادگیری ماشین + معرفی و پیاده‌سازی در پایتون (رایگان)
+https://faradars.org/videos/model-card-machine-learning-python-fvtgs8182
+آموزش پیش بینی سرطان با الگوریتم های یادگیری ماشین در پایتون – پیش ثبت نام
+https://faradars.org/courses/breast-cancer-prediction-with-machine-learning-fvmlbm103
+آموزش تکنیک ‌های توضیح‌ پذیری در یادگیری ماشین + پیاده‌سازی در پایتون (رایگان)
+https://faradars.org/videos/machine-learning-explainability-techniques-python-fvtgs10981
+داده بدون برچسب Unlabeled Data چیست؟ + نقش آن در یادگیری ماشین (آموزش رایگان)
+https://faradars.org/videos/unlabeled-data-in-machine-learning-and-its-role-fvtgs5240
+آموزش انتخاب مدل رگرسیونی بهینه + تحلیل داده‌ها و بررسی روابط کمی و کیفی (آموزش رایگان)
+https://faradars.org/videos/optimal-regression-model-selection-and-data-analysis-fvtgs9911
